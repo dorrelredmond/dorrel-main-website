@@ -12,9 +12,7 @@ projectUrl: https://youtu.be/mY4dsMaR-M4
 
 My first creation that I was truly happy with. Prior to this song, I had made a few things, but just was never satisfied, until this came along.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mY4dsMaR-M4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+{{<youtube mY4dsMaR-M4>}}
 
 ## **Place to listen/purchase**
 

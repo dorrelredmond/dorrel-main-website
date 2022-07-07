@@ -46,7 +46,7 @@ pygmentsCodeFences=true
   logo = "/images/Redmondtwitter_profile.png" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = "images/favicon.ico"
-  customCSS = ""
+  customCSS = "data/custom.css"
 
 [params.social]
   twitch = "https://twitch.tv/dorrelredmond"
@@ -88,6 +88,13 @@ pygmentsCodeFences=true
   title = "Blog section"
   url = "/post/"
   weight = -90
+
+[[menu.main]]
+  identifier = "links"
+  name = "Socials"
+  title = "Social Links"
+  url = "/links/"
+  weight = -80
 
 [sitemap]
   changefreq = "monthly"
