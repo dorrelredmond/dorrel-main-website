@@ -11,7 +11,7 @@ images: ["/images/sample.jpg"]
 - $100 - Full song
 - $60 - Composition only
 - $60 - Mix and/or Master
-- $50 - Cover Song Production
+- $50 - Original/Cover Song Production
 
 **Twitch/YouTube Alerts (follows, subs, etc)**
 
@@ -31,7 +31,7 @@ images: ["/images/sample.jpg"]
 - Mix and/or Master
   - Completed WAV and MP3 files (other file types on request)
   - Stems - if mixing only
-- Cover Song Production
+- Original/Cover Song Production
   - Completed WAV and MP3 files (other file types on request)
 
 ## How to Commission?
