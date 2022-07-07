@@ -1,0 +1,111 @@
+baseURL = "https://dorrelredmond.com/"
+languageCode = "en-us"
+title = "Dorrel Redmond"
+theme = "personal-web"
+copyright="© Dorrel Redmond"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Hi there, I'm Dorrel :cat:"
+  sub = "I'm a VTuber and Music Producer"
+
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Oh Nyo!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+  commissions = "comms"
+
+[params.sidebar]
+  backgroundImage = 'images/sidebar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/Redmondtwitter_profile.png" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = "images/favicon.ico"
+  customCSS = ""
+
+[params.social]
+  twitch = "https://twitch.tv/dorrelredmond"
+  twitter = "https://twitter.com/dorrelredmond"
+  youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw"
+  instagram = "https://www.instagram.com/dorrelredmond"
+
+[params.contact]
+  email = "dorrelredmond@gmail.com"
+  text= "Contact Me" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "comms"
+  name = "Commisions"
+  title = "Commision Info"
+  url = "/comms/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -90
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
