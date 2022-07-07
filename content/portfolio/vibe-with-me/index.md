@@ -14,3 +14,16 @@ Arguably my favorite song I've made up to this point. I had a lot of fun with it
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjuSV_7uzkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+## **Places to listen/purchase**
+
+[YouTube Music](https://youtu.be/bjuSV_7uzkE)
+
+[Apple Music](https://music.apple.com/us/album/vibe-with-me/1606723440?i=1606723441)
+
+[Spotify](https://open.spotify.com/artist/3CRJJnYhQXumwKvbQLl215)
+
+[Amazon Music](https://music.amazon.com/albums/B09RLJD6L2?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_zpTAgbyH8ylkj9bnUcmLHABLS&trackAsin=B09RKQMWXL)
+
+[Bandcamp](https://dorrelredmond.bandcamp.com/track/vibe-with-me)
