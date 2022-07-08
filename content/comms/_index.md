@@ -6,18 +6,16 @@ images: ["/images/sample.jpg"]
 
 ## Prices
 
-**Music**
+### Music
 
 - $100 - Full song
 - $60 - Composition only
 - $60 - Mix and/or Master
 - $50 - Original/Cover Song Production
 
-**Twitch/YouTube Alerts (follows, subs, etc)**
+### Twitch/YouTube Alerts (follows, subs, etc)
 
 - $10 - Per Sound
-
-
 
 ## What's included?
 
@@ -42,8 +40,6 @@ The best way to reach me for commissions is via email at [dorrelredmond@gmail.co
 
 When contacting me, please include any information regarding purpose for the track(s), the mood/theme, and anything you think would be good inspiration for me when making track(s).
 
-
-
 ## Standard Terms
 
 After receiving payment, I will reach out via email to confirm the receipt of payment and to further discuss the details (if necessary).
@@ -56,25 +52,22 @@ I will regularly send you updates so revisions are possible. Unlimited revisions
 
 - I ask to be credited in the description or as part of twitch credits panel
 
-- Estimated turnaround times (subject to change): 
+- Estimated turnaround times (subject to change):
 
-   
+  - > Full Song - 2 weeks
 
-   - > Full Song - 2 weeks
+  - >  Composition - 1 week
 
-   - >  Composition - 1 week
+  - > Mixing and Mastering - 1 week
 
-   - > Mixing and Mastering - 1 week
-
-   - > Cover Song Production - 1 week
-
+  - > Cover Song Production - 1 week
 
 **Refund Policy:**
 
 - There are only two occassions where refunds may be issued
-   
-   - > I am unable to fulfill the request
-   
-   - > I have not started to work on the commission and you wish to cancel
+
+  - > I am unable to fulfill the request
+
+  - > I have not started to work on the commission and you wish to cancel
 
 - If either of these instances occur, I will refund you. Otherwise, there will be no refunds
