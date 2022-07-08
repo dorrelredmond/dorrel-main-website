@@ -39,6 +39,7 @@ pygmentsCodeFences=true
   post = "article"
   portfolio = "project"
   commissions = "comms"
+  socials = "links"
 
 [params.sidebar]
   backgroundImage = 'images/sidebar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
