@@ -8,7 +8,6 @@ images: ["/images/sample.jpg"]
 <style>
 a:hover {
   color: #E5E5E5;
-  font-size: 23px;
   text-decoration: underline;
   transition: 0.3s
 }
