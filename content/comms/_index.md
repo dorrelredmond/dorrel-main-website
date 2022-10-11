@@ -9,9 +9,7 @@ images: ["/images/sample.jpg"]
 ### Music
 
 - $100 - Full song
-- $60 - Composition only
-- $60 - Mix and/or Master
-- $50 - Original/Cover Song Production
+- $75 - Original/Cover Song Production
 
 ### Twitch/YouTube Alerts (follows, subs, etc)
 
@@ -23,12 +21,6 @@ images: ["/images/sample.jpg"]
   - Completed WAV and MP3 files (other file types on request)
   - Stems will be an upcharge of $25
 
-- Composition only
-  - Multitrack - so that anyone can mix and master the song
-  - Stems - for engineers that might prefer them
-- Mix and/or Master
-  - Completed WAV and MP3 files (other file types on request)
-  - Stems - if mixing only
 - Original/Cover Song Production
   - Completed WAV and MP3 files (other file types on request)
 
@@ -36,7 +28,7 @@ images: ["/images/sample.jpg"]
 
 All commissions will be run through [Ko-Fi](https://ko-fi.com/dorrelredmond/). HOWEVER, please contact me before officially placing the order
 
-The best way to reach me for commissions is via email at [dorrelredmond@gmail.com](mailto:dorrelredmond@gmail.com). Please be sure to include your name and the "commission" somewhere in the subject line.
+The best way to reach me for commissions is via email at [dorrelredmond@gmail.com](mailto:dorrelredmond@gmail.com). Please be sure to include your name and the word "commission" somewhere in the subject line.
 
 When contacting me, please include any information regarding purpose for the track(s), the mood/theme, and anything you think would be good inspiration for me when making track(s).
 
@@ -56,11 +48,9 @@ I will regularly send you updates so revisions are possible. Unlimited revisions
 
   - > Full Song - 2 weeks
 
-  - >  Composition - 1 week
-
-  - > Mixing and Mastering - 1 week
-
   - > Cover Song Production - 1 week
+
+  - > Sound Alerts - 1 week
 
 **Refund Policy:**
 

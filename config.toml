@@ -94,7 +94,7 @@ pygmentsCodeFences=true
   identifier = "links"
   name = "Socials"
   title = "Social Links"
-  url = "/links/"
+  url = "https://links.dorrelredmond.com"
   weight = -80
 
 [sitemap]
