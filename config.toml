@@ -38,7 +38,6 @@ pygmentsCodeFences=true
   # when automatically pulled. For instance in the 404 page
   post = "article"
   portfolio = "project"
-  commissions = "comms"
   socials = "links"
 
 [params.sidebar]
@@ -68,13 +67,6 @@ pygmentsCodeFences=true
   title = "About section"
   url = "/about/"
   weight = -120
-
-[[menu.main]]
-  identifier = "comms"
-  name = "Commisions"
-  title = "Commision Info"
-  url = "/comms/"
-  weight = -110
 
 [[menu.main]]
   identifier = "portfolio"
