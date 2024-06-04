@@ -10,7 +10,7 @@ thumbnail: hope/hope.jpg
 projectUrl: https://youtu.be/0crPvjk0yNs
 ---
 
-I was messing around with Bandlab on my phone and came up with this idea. I liked how it turned out and decided to turn it into a full song. 
+I was messing around with Bandlab on my phone and came up with this idea. I liked how it turned out and decided to turn it into a full song.
 
 {{<youtube 0crPvjk0yNs>}}
 

@@ -69,6 +69,13 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
+  identifier = "credits"
+  name = "Credits"
+  title = "Stream Credits"
+  url = "/credits/"
+  weight = -110
+
+[[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"

@@ -3,9 +3,9 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-Here is a collection of everything I've officially released. All original music includes an embedded video from YouTube. 
+Here is a collection of everything I've officially released. All original music includes an embedded video from YouTube.
 
-My original music is also available on all streaming platforms: 
+My original music is also available on all streaming platforms:
 
 - [Apple Music](https://music.apple.com/us/artist/dorrel-redmond/1606677327)
 - [Spotify](https://open.spotify.com/artist/3CRJJnYhQXumwKvbQLl215)
