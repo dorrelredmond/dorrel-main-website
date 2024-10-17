@@ -50,9 +50,8 @@ pygmentsCodeFences=true
 
 [params.social]
   twitch = "https://twitch.tv/dorrelredmond"
-  twitter = "https://twitter.com/dorrelredmond"
   youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw"
-  instagram = "https://www.instagram.com/dorrelredmond"
+  twitter = "https://bsky.app/profile/dorrelredmond.com"
 
 [params.contact]
   email = "dorrelredmond@gmail.com"
